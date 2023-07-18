@@ -1,4 +1,4 @@
-# NFT Marketplace Using NextJS and Thirdweb
+# NFT Marketplace Using NextJS
 
 Clone of the OpenSea marketplace. Responsive Web application that can list a NFT collection created on the Web3.0 using the thirdweb SDK. This app runs on the Goerli test Ethereum network, and implements authentification with MetaMask. Anyone can then buy any unit of the mock NFT collection and it will then disappear from the listings. The app is styled using Tailwind CSS.
 
